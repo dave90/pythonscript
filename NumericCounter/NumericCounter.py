@@ -1,4 +1,5 @@
 import sys
+import os
 
 #arg
 # 1: benchmark filename
@@ -50,7 +51,10 @@ bench=""
 if len(nameBench)>8:
     bench=nameBench[7]+"\t";
 
+header=""
+if not os.path.isfile(outfile):
+    header="Bench\tProblem\tExe\tN.Rule\tN. Atom In Boby\tN. Fact\n"
 with open(outfile, "a") as myfile:
-    myfile.write(bench+fileBench+"\t"+binary+"\t"+str(r)+"\t"+str(body)+"\t"+str(fact)+"\n")
+    myfile.write(header+bench+fileBench+"\t"+binary+"\t"+str(r)+"\t"+str(body)+"\t"+str(fact)+"\n")
 
 #print(str(r)+"\t"+str(body)+"\t"+str(fact))
