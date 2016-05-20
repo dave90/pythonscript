@@ -1,0 +1,52 @@
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0009-ppm-200-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0069-ppm-70-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0075-ppm-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0090-ppm-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0107-ppm-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0117-ppm-70-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0194-ppm-120-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0004-ValvesLocationProblem-711-0.asp	gringo-4.5.4-c	OK 10@1 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0014-ValvesLocationProblem-2053-0.asp	gringo-4.5.4-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0024-ValvesLocationProblem-210-0.asp	gringo-4.5.4-c	OK 2329@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0009-ppm-200-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0069-ppm-70-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0075-ppm-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0090-ppm-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0107-ppm-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0117-ppm-70-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0194-ppm-120-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0004-ValvesLocationProblem-711-0.asp	dlv2-c	OK 10@1 12408@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0014-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0024-ValvesLocationProblem-210-0.asp	dlv2-c	OK 2471@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0036-ValvesLocationProblem-710-0.asp	dlv2-c	OK 27039@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0046-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0056-ValvesLocationProblem-210-0.asp	dlv2-c	OK 2355@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0066-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2759@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0076-ValvesLocationProblem-710-0.asp	dlv2-c	OK 27172@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0087-ValvesLocationProblem-166-0.asp	dlv2-c	OK 2692@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0097-ValvesLocationProblem-466-0.asp	dlv2-c	OK 9191@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0109-ValvesLocationProblem-450-0.asp	dlv2-c	OK 14598@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0119-ValvesLocationProblem-166-0.asp	dlv2-c	OK 2692@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0130-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2759@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0142-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0152-ValvesLocationProblem-210-0.asp	dlv2-c	OK 2279@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0162-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2582@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0171-ValvesLocationProblem-711-0.asp	dlv2-c	OK 10023@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0185-ValvesLocationProblem-466-0.asp	dlv2-c	OK 9191@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0195-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0206-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 20638@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0214-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23569@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0226-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2501@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0235-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0246-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23569@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0257-ValvesLocationProblem-466-0.asp	dlv2-c	OK 7132@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0267-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0279-ValvesLocationProblem-166-0.asp	dlv2-c	OK 1247@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0290-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2271@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0301-ValvesLocationProblem-450-0.asp	dlv2-c	OK 11706@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0309-ValvesLocationProblem-450-0.asp	dlv2-c	OK 14148@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0001-still_live-6-1.asp	dlv2-c	OK 14@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0002-still_live-7-1.asp	dlv2-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0003-still_live-8-1.asp	dlv2-c	OK 21@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0004-still_live-9-1.asp	dlv2-c	OK 32@0
+

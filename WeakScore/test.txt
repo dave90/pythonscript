@@ -1,0 +1,360 @@
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0045-nomystery-44-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0120-sokoban-63-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0156-sokoban-24-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0191-sokoban-45-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0226-sokoban-80-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0298-sokoban-126-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0371-sokoban-18-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0406-sokoban-31-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0551-sokoban-49-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0586-sokoban-63-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0624-sokoban-67-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0948-sokoban-54-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0001-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0003-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0009-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0011-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0017-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0023-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0025-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0031-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0033-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0037-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0041-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0049-ricochetrobot-16-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0001-crossing_minimization-9-0.asp	gringo-4.5.4-c	OK 19@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0003-crossing_minimization-9-0.asp	gringo-4.5.4-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0005-crossing_minimization-9-0.asp	gringo-4.5.4-c	OK 11@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0010-crossing_minimization-9-0.asp	gringo-4.5.4-c	OK 22@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0014-crossing_minimization-10-0.asp	gringo-4.5.4-c	OK 42@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0019-crossing_minimization-10-0.asp	gringo-4.5.4-c	OK 43@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0022-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 14@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0024-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 13@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0028-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 16@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0038-crossing_minimization-9-0.asp	gringo-4.5.4-c	OK 37@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0052-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 16@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0055-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0056-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 31@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0074-crossing_minimization-8-0.asp	gringo-4.5.4-c	OK 21@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0001-solitaire-24-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0002-solitaire-24-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0003-solitaire-24-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0004-solitaire-25-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0005-solitaire-25-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0006-solitaire-25-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0007-solitaire-26-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0008-solitaire-26-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0009-solitaire-26-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0010-solitaire-27-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0011-solitaire-27-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0012-solitaire-27-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0013-solitaire-28-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0014-solitaire-28-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0015-solitaire-28-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0016-solitaire-29-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0017-solitaire-29-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0018-solitaire-29-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0019-solitaire-30-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0020-solitaire-30-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0021-solitaire-30-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0001-treeWeight-495-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0003-treeWeight-618-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0004-treeWeight-645-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0008-treeWeight-553-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0010-treeWeight-289-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0011-treeWeight-653-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0012-treeWeight-637-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0014-treeWeight-453-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0016-treeWeight-445-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0018-treeWeight-417-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0022-treeWeight-302-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0023-treeWeight-291-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0026-treeWeight-661-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0029-treeWeight-326-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0031-treeWeight-802-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0032-treeWeight-832-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0033-treeWeight-754-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0040-treeWeight-795-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0042-treeWeight-431-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0043-treeWeight-467-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0047-treeWeight-707-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0049-treeWeight-782-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0060-treeWeight-518-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0001-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0002-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0003-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0006-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0008-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0009-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0010-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0011-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0012-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0014-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0017-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0018-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0020-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0023-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0024-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0025-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0026-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0030-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0031-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0033-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0034-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0036-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0037-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0038-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0040-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0041-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0044-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0048-stablemarriage-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0009-ppm-200-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0069-ppm-70-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0075-ppm-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0090-ppm-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0107-ppm-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0117-ppm-70-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0194-ppm-120-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0004-ValvesLocationProblem-711-0.asp	gringo-4.5.4-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0014-ValvesLocationProblem-2053-0.asp	gringo-4.5.4-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0024-ValvesLocationProblem-210-0.asp	gringo-4.5.4-c	OK 2329@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0056-ValvesLocationProblem-210-0.asp	gringo-4.5.4-c	OK 1327@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0001-still_live-6-1.asp	gringo-4.5.4-c	OK 14@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0002-still_live-7-1.asp	gringo-4.5.4-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0003-still_live-8-1.asp	gringo-4.5.4-c	OK 21@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0004-still_live-9-1.asp	gringo-4.5.4-c	OK 32@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0001-quadruple_cone_5-25-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0002-triple_cone_6-24-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0010-triple_cone_9-36-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0020-double_cone_12-36-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0029-windmill_4_4-24-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0031-suspended_prism_8_2-40-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0037-windmill_4_5-30-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0039-doughnut_3_6-36-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0040-doughnut_4_5-40-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0044-prism_6_3-30-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0046-prism_5_4-35-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0048-triple_wheel_8-48-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0049-double_wheel_12-48-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0053-triple_wheel_9-54-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0055-double_wheel_14-56-1.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0005-03-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0007-04-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0015-08-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0017-09-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0027-14-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0037-19-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0041-21-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0045-23-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0051-26-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0053-27-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0059-30-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0067-34-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0073-37-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0077-39-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0081-41-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0083-42-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0095-48-bottle_filling_sat-0-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0001-nomystery-18-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0002-nomystery-32-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0003-nomystery-50-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0007-nomystery-57-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0009-nomystery-63-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0010-nomystery-56-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0013-nomystery-77-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0035-nomystery-28-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0039-nomystery-42-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0040-nomystery-67-0.asp	gringo-4.5.4-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0009-ppm-200-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0069-ppm-70-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0075-ppm-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0090-ppm-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0107-ppm-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0117-ppm-70-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b01/0194-ppm-120-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0004-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0014-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0024-ValvesLocationProblem-210-0.asp	dlv2-c	OK 2471@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0036-ValvesLocationProblem-710-0.asp	dlv2-c	OK 27039@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0046-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0056-ValvesLocationProblem-210-0.asp	dlv2-c	OK 2355@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0066-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2759@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0076-ValvesLocationProblem-710-0.asp	dlv2-c	OK 27172@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0087-ValvesLocationProblem-166-0.asp	dlv2-c	OK 2692@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0097-ValvesLocationProblem-466-0.asp	dlv2-c	OK 9191@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0109-ValvesLocationProblem-450-0.asp	dlv2-c	OK 14598@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0119-ValvesLocationProblem-166-0.asp	dlv2-c	OK 2692@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0130-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2759@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0142-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23808@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0152-ValvesLocationProblem-210-0.asp	dlv2-c	OK 2279@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0162-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2582@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0171-ValvesLocationProblem-711-0.asp	dlv2-c	OK 10023@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0185-ValvesLocationProblem-466-0.asp	dlv2-c	OK 9191@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0195-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0206-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 20638@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0214-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23569@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0226-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2501@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0235-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0246-ValvesLocationProblem-2053-0.asp	dlv2-c	OK 23569@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0257-ValvesLocationProblem-466-0.asp	dlv2-c	OK 7132@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0267-ValvesLocationProblem-711-0.asp	dlv2-c	OK 12409@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0279-ValvesLocationProblem-166-0.asp	dlv2-c	OK 1247@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0290-ValvesLocationProblem-73-0.asp	dlv2-c	OK 2271@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0301-ValvesLocationProblem-450-0.asp	dlv2-c	OK 11706@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b02/0309-ValvesLocationProblem-450-0.asp	dlv2-c	OK 14148@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0001-still_live-6-1.asp	dlv2-c	OK 14@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0002-still_live-7-1.asp	dlv2-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0003-still_live-8-1.asp	dlv2-c	OK 21@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b04/0004-still_live-9-1.asp	dlv2-c	OK 32@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0001-quadruple_cone_5-25-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0002-triple_cone_6-24-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0020-double_cone_12-36-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0024-suspended_prism_5_3-40-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0029-windmill_4_4-24-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0031-suspended_prism_8_2-40-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0037-windmill_4_5-30-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0039-doughnut_3_6-36-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0040-doughnut_4_5-40-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0044-prism_6_3-30-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0046-prism_5_4-35-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0049-double_wheel_12-48-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0053-triple_wheel_9-54-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b05/0055-double_wheel_14-56-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0005-03-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0007-04-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0015-08-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0017-09-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0027-14-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0037-19-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0041-21-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0045-23-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0051-26-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0053-27-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0059-30-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0067-34-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0073-37-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0077-39-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0081-41-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0083-42-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b06/0095-48-bottle_filling_sat-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0001-nomystery-18-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0002-nomystery-32-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0003-nomystery-50-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0007-nomystery-57-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0009-nomystery-63-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0010-nomystery-56-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0035-nomystery-28-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0039-nomystery-42-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0040-nomystery-67-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b07/0045-nomystery-44-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0120-sokoban-63-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0156-sokoban-24-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0191-sokoban-45-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0226-sokoban-80-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0298-sokoban-126-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0371-sokoban-18-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0406-sokoban-31-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0516-sokoban-200-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0586-sokoban-63-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0624-sokoban-67-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b08/0948-sokoban-54-1.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0001-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0003-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0009-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0011-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0017-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0023-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0025-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0031-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0033-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0037-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0041-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0044-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b09/0049-ricochetrobot-16-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0001-crossing_minimization-9-0.asp	dlv2-c	OK 19@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0003-crossing_minimization-9-0.asp	dlv2-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0005-crossing_minimization-9-0.asp	dlv2-c	OK 11@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0010-crossing_minimization-9-0.asp	dlv2-c	OK 22@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0014-crossing_minimization-10-0.asp	dlv2-c	OK 42@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0019-crossing_minimization-10-0.asp	dlv2-c	OK 43@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0022-crossing_minimization-8-0.asp	dlv2-c	OK 14@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0024-crossing_minimization-8-0.asp	dlv2-c	OK 13@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0028-crossing_minimization-8-0.asp	dlv2-c	OK 16@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0038-crossing_minimization-9-0.asp	dlv2-c	OK 37@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0052-crossing_minimization-8-0.asp	dlv2-c	OK 16@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0055-crossing_minimization-8-0.asp	dlv2-c	OK 18@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0056-crossing_minimization-8-0.asp	dlv2-c	OK 31@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b10/0074-crossing_minimization-8-0.asp	dlv2-c	OK 21@0
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0001-solitaire-24-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0002-solitaire-24-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0003-solitaire-24-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0004-solitaire-25-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0005-solitaire-25-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0006-solitaire-25-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0007-solitaire-26-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0008-solitaire-26-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0009-solitaire-26-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0010-solitaire-27-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0011-solitaire-27-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0012-solitaire-27-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0013-solitaire-28-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0014-solitaire-28-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0015-solitaire-28-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0016-solitaire-29-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0017-solitaire-29-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0018-solitaire-29-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0019-solitaire-30-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0020-solitaire-30-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0021-solitaire-30-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b13/0023-solitaire-31-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0001-treeWeight-495-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0003-treeWeight-618-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0004-treeWeight-645-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0008-treeWeight-553-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0010-treeWeight-289-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0011-treeWeight-653-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0012-treeWeight-637-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0014-treeWeight-453-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0016-treeWeight-445-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0018-treeWeight-417-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0022-treeWeight-302-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0023-treeWeight-291-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0026-treeWeight-661-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0029-treeWeight-326-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0031-treeWeight-802-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0032-treeWeight-832-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0033-treeWeight-754-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0040-treeWeight-795-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0042-treeWeight-431-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0047-treeWeight-707-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0049-treeWeight-782-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b14/0053-treeWeight-679-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0001-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0002-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0003-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0006-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0008-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0009-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0010-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0011-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0012-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0014-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0017-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0018-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0020-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0023-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0024-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0025-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0026-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0030-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0031-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0033-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0034-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0036-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0037-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0038-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0040-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0041-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0044-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0048-stablemarriage-0-0.asp	dlv2-c	OK
+/home/fusca/experiments_environment//problems/FourthCompetition/b15/0049-stablemarriage-0-0.asp	dlv2-c	OK
