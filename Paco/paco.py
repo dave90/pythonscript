@@ -17,11 +17,17 @@ def compact():
     if len(sys.argv)==2:
       for file in os.listdir(DIR):
           tar.add(os.path.join(DIR, file))
-    else:
+    elif len(sys.argv)==3:
         for file in os.listdir(os.path.join(DIR,sys.argv[2])):
+            print("ADD "+os.path.join(DIR, sys.argv[2],file))
             tar.add(os.path.join(DIR, sys.argv[2],file))
-
+    else:
+         for file in os.listdir(os.path.join(DIR,sys.argv[2],sys.argv[3])):
+            print("ADD "+os.path.join(DIR, sys.argv[2],sys.argv[3],file))
+            tar.add(os.path.join(DIR, sys.argv[2],sys.argv[3],file))
     tar.close()
+
+
 
 
 
