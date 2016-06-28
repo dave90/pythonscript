@@ -7,6 +7,14 @@ for line in fileinput.input():
         continue
     l = line.rstrip("\n")
     splitLine = l.split("\t")
+    if len(splitLine) == 3:
+    	splitInstance=splitLine[0].split("/")
+    	inst=""
+    	for s in splitInstance[6:]:
+     		inst = inst + s +"/"
+    	inst =  inst[:-1]
+    	print(inst+"\t"+splitLine[1]+"\t"+splitLine[2])
+
     if len(splitLine) < 8:
         continue
     
@@ -18,7 +26,12 @@ for line in fileinput.input():
     	continue
     instance=splitLine[1].strip("('")
     instance2=instance.strip("',)")
-    print(instance2+"\t"+splitLine[2]+"\t"+result)
+    splitInstance=instance2.split("/")
+    inst=""
+    for s in splitInstance[6:]:
+     inst = inst + s +"/"
+    inst =  inst[:-1]
+    print(inst+"\t"+splitLine[2]+"\t"+result)
 
 
 
